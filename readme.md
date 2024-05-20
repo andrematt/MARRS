@@ -1,4 +1,4 @@
-MAARS: Mobile AR Recommender System
+MARRS: Mobile AR Recommender System
 ----------------------------
 
 Contains the datasets, models structure files, and training outcomes for the paper "A Mobile Augmented Reality Recommender System for Smart Home" submitted to the RecSys 2024 conference.
