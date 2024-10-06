@@ -1,7 +1,7 @@
 MAARS: Mobile AR Recommender System
 ----------------------------
 
-Contains the datasets, models structure files, and training outcomes for the paper "Personalised Recommendations for Daily Automations in a Mobile Augmented Reality Application" submitted to the ACM Conference on Intelligent User Interaces 2025.
+Contains the datasets, models structure files, and training outcomes for the paper "Personalised Recommendations for Daily Automations in a Mobile Augmented Reality Application" submitted to the ACM Conference on Intelligent User Interfaces 2025.
 
 The code is organized into two directories, containing the part of the experiment performed with Tensorflow-Keras (tested with Python 3.8.9) and with Scikit-Learn (tested with Python 3.12.4). Each has a requirements.txt file with its own dependencies.
 
