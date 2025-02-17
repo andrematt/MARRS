@@ -1,0 +1,3 @@
+We selected the penultimate result, since the patience callback patience was used to stop training when validation loss stopped improving.
+
+Since the dataset is large (more than one million inputs) and from preliminary tests we saw that the results are stable across folds, we ran the full test on a single train/test split.
