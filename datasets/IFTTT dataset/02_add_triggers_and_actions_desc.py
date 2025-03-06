@@ -1,6 +1,7 @@
 import json
 import csv
 
+#### Adds a natural language description to the triggers and actions in the dataset
 
 def read_json_lines(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
